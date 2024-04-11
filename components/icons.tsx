@@ -1,8 +1,9 @@
 import {
   Check,
-  Trash,
   Gift,
+  LogOut,
   LucideProps,
+  Trash,
   type LucideIcon as LucideIconType,
 } from "lucide-react";
 
@@ -15,6 +16,7 @@ export const Icons = {
   check: Check,
   gift: Gift,
   trash: Trash,
+  logOut: LogOut,
 
   chevronDown: (props: LucideProps) => (
     <svg

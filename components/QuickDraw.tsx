@@ -4,7 +4,7 @@ import ComboBox from "@/components/form/ComboBox";
 import { NonZodComboBox } from "@/components/form/NonZodComboBox";
 import { Icons } from "@/components/icons";
 import { Button } from "@/components/ui/button";
-import { AddParticipantModal } from "@/components/ui/quick-draw/AddPartcipantModal";
+import { AddParticipantModal } from "@/components/AddPartcipantModal";
 import { cn } from "@/lib/utils";
 // import { Input } from "@/components/form/Input";
 import { useState } from "react";
