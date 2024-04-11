@@ -1,4 +1,4 @@
-export function SingleEventPage() {
+export default function SingleEventPage() {
   //TODO: Edit and delete event, send emails to participants, commence drawing
   return (
     <div>
