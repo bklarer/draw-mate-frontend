@@ -1,4 +1,4 @@
-export function EventPage() {
+export default function EventPage() {
   //TODO Cards or table of events
   return (
     <div>
