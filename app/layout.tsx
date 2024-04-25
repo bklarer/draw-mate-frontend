@@ -23,7 +23,6 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head />
-
       <body
         className={cn(
           "min-h-screen font-sans antialiased bg-primary-foreground mt-4",
