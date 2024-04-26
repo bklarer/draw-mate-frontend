@@ -11,7 +11,7 @@ import { useState } from "react";
 
 export default function Header() {
   const [loggedIn, setLoggedIn] = useState(true);
-  const [open, setOpen] = useState(true);
+  const [open, setOpen] = useState(false);
 
   // Decided to try using buttons since they are part of the dialog component.
   // I may need to find a work around for showing what is active or just match the styles of the button to the link component
