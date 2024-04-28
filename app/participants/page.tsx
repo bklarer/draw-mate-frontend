@@ -3,6 +3,7 @@ import { Button } from "@/components/ui/button";
 
 export default function ParticipantPage() {
   //TODO: I'll just do a modal for a single participant to edit/delete
+  //TODO: Add search bar, first col of grid
 
   return (
     <div className="w-full mt-10">
